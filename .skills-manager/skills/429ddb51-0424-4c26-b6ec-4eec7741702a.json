@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "429ddb51-0424-4c26-b6ec-4eec7741702a",
+  "path": "omc-reference",
+  "path_key": "omc-reference",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

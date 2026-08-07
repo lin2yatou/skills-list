@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "18fde82e-5f93-4a53-9829-e548a241b0bf",
+  "path": "figma-create-new-file",
+  "path_key": "figma-create-new-file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

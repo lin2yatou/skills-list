@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e1d3fdfb-e926-4f87-946f-3e2f5e40747b",
+  "path": "phoenix-tool-trace-search",
+  "path_key": "phoenix-tool-trace-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3fe60f12-c4a7-4edc-8ff5-ac0f6fb1f224",
+  "path": "kotlin-testing",
+  "path_key": "kotlin-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

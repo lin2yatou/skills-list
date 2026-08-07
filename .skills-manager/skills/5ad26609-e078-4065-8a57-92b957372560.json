@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5ad26609-e078-4065-8a57-92b957372560",
+  "path": "agent-builder",
+  "path_key": "agent-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

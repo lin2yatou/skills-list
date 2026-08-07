@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "47fde73e-6ce5-4e03-b101-e2261eda7a35",
+  "path": "kotlin-ktor-patterns",
+  "path_key": "kotlin-ktor-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

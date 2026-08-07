@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5830459c-ce26-4db1-b352-637c7a195fee",
+  "path": "redis-patterns",
+  "path_key": "redis-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

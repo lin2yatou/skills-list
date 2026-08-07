@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d9fa1835-1e88-4e84-af65-2b45a3806ac7",
+  "path": "postgres-patterns",
+  "path_key": "postgres-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

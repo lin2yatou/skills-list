@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "33eb190c-5d2e-485a-9e9a-363a1ae786e9",
+  "path": "kotlin-exposed-patterns",
+  "path_key": "kotlin-exposed-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

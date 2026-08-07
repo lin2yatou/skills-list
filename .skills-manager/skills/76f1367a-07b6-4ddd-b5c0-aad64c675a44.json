@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "76f1367a-07b6-4ddd-b5c0-aad64c675a44",
+  "path": "mysql-patterns",
+  "path_key": "mysql-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

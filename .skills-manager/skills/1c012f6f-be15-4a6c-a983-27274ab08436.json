@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1c012f6f-be15-4a6c-a983-27274ab08436",
+  "path": "kotlin-coroutines-flows",
+  "path_key": "kotlin-coroutines-flows",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
