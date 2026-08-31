@@ -6,13 +6,13 @@
   "tools": {
     "claude_code": true,
     "cline": true,
-    "codex": true,
+    "codex": false,
     "cursor": true,
     "gemini_cli": true,
     "github_copilot": true,
     "openclaw": true,
     "opencode": true,
-    "pi": true,
+    "pi": false,
     "qoder": true,
     "qwen_code": true,
     "trae_cn": true
